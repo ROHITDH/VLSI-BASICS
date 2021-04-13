@@ -1,0 +1,23 @@
+Circuit: * D:\VLSI\NMOS PMOS 2\PMOS\Common Source Amplifier\pmos_vgs_-1.1_0.05_1k_vth_-0.6_vds_1.6_cs_amplifier.asc
+
+Warning: Multiple definitions of model "aons66402" Type: Vdmos1
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Apr 13 17:01:57 2021
+Total elapsed time: 1.835 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 80035
+traniter = 80030
+tranpoints = 40016
+accept = 24018
+rejected = 15998
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 114 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 301 bytes object code size  0.1/0.1/[0.1]
+
